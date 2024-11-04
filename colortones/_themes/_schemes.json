@@ -1,0 +1,44 @@
+{
+	"default": {
+		"high-color": [255, 157, 18],
+		"rising-color": [0, 190, 36],
+		"low-color": [0, 87, 190],
+		"falling-color": [176, 111, 219],
+		"neutral-color": [128, 128, 128]
+	},
+	"dummit": {
+		"high-color": [244, 29, 47],
+		"rising-color": [249, 118, 27],
+		"low-color": [151, 205, 93],
+		"falling-color": [88, 155, 200],
+		"neutral-color": [88, 155, 200]
+	},
+	"mdbg": {
+		"high-color": [255, 0, 0],
+		"rising-color": [216, 144, 0],
+		"low-color": [0, 160, 0],
+		"falling-color": [0, 0, 255],
+		"neutral-color": [0, 0, 0]
+	},
+	"hanping": {
+		"high-color": [100, 180, 255],
+		"rising-color": [48, 176, 48],
+		"low-color": [240, 128, 0],
+		"falling-color": [208, 0, 32],
+		"neutral-color": [160, 160, 160]
+	},
+	"pleco": {
+		"high-color": [227, 0, 0],
+		"rising-color": [2, 179, 28],
+		"low-color": [21, 16, 240],
+		"falling-color": [137, 0, 191],
+		"neutral-color": [119, 119, 119]
+	},
+	"sinosplice": {
+		"high-color": [244, 161, 50],
+		"rising-color": [95, 204, 47],
+		"low-color": [32, 92, 181],
+		"falling-color": [217, 56, 33],
+		"neutral-color": [128, 128, 128]
+	}
+}
