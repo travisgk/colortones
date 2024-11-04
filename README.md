@@ -1,9 +1,7 @@
-[<img src="https://github.com/travisgk/chromapinyin/blob/main/_demo_output/demo_a.png?raw=true">](https://github.com/travisgk/chromapinyin/blob/main/demo_a.py)
 # colortones
 A Python script that colors Chinese characters to match their spoken tone.
 This tool provides other transcriptions into zhuyin, pinyin, and the IPA as well.
 
-<br>
 <br>
 
 # Setup
@@ -11,7 +9,11 @@ This tool provides other transcriptions into zhuyin, pinyin, and the IPA as well
 pip install pypinyin jieba
 ```
 
+<br>
+
 # Example
+<img src="https://github.com/travisgk/colortones/blob/main/_demo_output/_sample.png?raw=true">
+
 ```
 import colortones
 
